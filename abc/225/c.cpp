@@ -1,20 +1,4 @@
-#include <iostream>
-#include <string>
-#include <vector>
-#include <algorithm>
-#include <numeric>
-#include <cmath>
-#include <iomanip>
-#include <cstdio>
-#include <set>
-#include <map>
-#include <unordered_map>
-#include <unordered_set>
-#include <list>
-#include <cstdlib>
-#include <queue>
-#include <stack>
-#include <bitset>
+#include <bits/stdc++.h>
 
 using namespace std;
 
